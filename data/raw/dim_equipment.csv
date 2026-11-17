@@ -1,0 +1,25 @@
+equipment_id,equipment_name,line_id,equipment_type,commissioned_date,ideal_cycle_time_seconds
+258fad4e-1a92-4ae5-8b32-025fdbc60ccb,A-CNC-01,77cf1496-5f89-4b5b-af69-1b04d7d37473,CNC Machine,2022-11-01,22.0
+35c66b5a-af65-4d4c-95ce-06c0c85afec3,A-Hydraulic-02,77cf1496-5f89-4b5b-af69-1b04d7d37473,Hydraulic Press,2022-06-21,45.0
+0a72633e-5bee-48a8-a247-b1698023db0a,A-Robotic-03,77cf1496-5f89-4b5b-af69-1b04d7d37473,Robotic Arm,2022-02-17,22.0
+7a29a0bd-94d0-45dc-bbd7-fc1e6496d565,B-CNC-01,212870e1-462c-4282-b4c8-ca1d8686c87b,CNC Machine,2019-07-20,22.0
+8fd2f24c-5a82-41d6-8258-88c90c8cdad6,B-Hydraulic-02,212870e1-462c-4282-b4c8-ca1d8686c87b,Hydraulic Press,2023-01-08,35.0
+6d1c6bd6-311b-4a94-a87c-d794e00f182d,B-Robotic-03,212870e1-462c-4282-b4c8-ca1d8686c87b,Robotic Arm,2020-01-11,40.0
+2ee142e9-e348-4304-ac4f-e48c0d10461b,C-CNC-01,9d286c2a-ca5b-489e-9a52-22a7ec979ffd,CNC Machine,2021-07-20,30.0
+48a1193c-79d0-4ad4-a424-f8729aebe179,C-Hydraulic-02,9d286c2a-ca5b-489e-9a52-22a7ec979ffd,Hydraulic Press,2022-11-05,18.0
+8ec793e2-a340-4155-9e19-c7c0ce1b629f,C-Robotic-03,9d286c2a-ca5b-489e-9a52-22a7ec979ffd,Robotic Arm,2021-07-22,25.0
+9b648db1-6aab-4ee8-b290-0112484c1148,D-CNC-01,b8171fb8-a045-4e71-a5e5-b3cbcdaa691b,CNC Machine,2022-03-31,22.0
+b2607f44-c5ac-406b-a850-e87a2833dda4,D-Hydraulic-02,b8171fb8-a045-4e71-a5e5-b3cbcdaa691b,Hydraulic Press,2022-01-02,45.0
+757a4041-b403-4adf-8534-37fbda436703,D-Robotic-03,b8171fb8-a045-4e71-a5e5-b3cbcdaa691b,Robotic Arm,2022-07-31,25.0
+ca956d88-87d1-4c95-bcaf-ce8855df6b91,E-CNC-01,f6537b5b-5fff-4bee-bd62-57339b3bb166,CNC Machine,2020-05-25,18.0
+f807d28d-f79b-4521-aa89-29c014cefcb4,E-Hydraulic-02,f6537b5b-5fff-4bee-bd62-57339b3bb166,Hydraulic Press,2021-10-13,45.0
+470ac829-d702-4b15-bd26-04ddf5238578,E-Robotic-03,f6537b5b-5fff-4bee-bd62-57339b3bb166,Robotic Arm,2019-06-27,45.0
+88434182-e932-4d4e-9ba6-5c417057487c,F-CNC-01,d4d171f1-1a90-42cb-9802-b84a40ce4be7,CNC Machine,2019-07-19,30.0
+4cd9d7eb-f2f8-4d6e-8c15-9086922bc77f,F-Hydraulic-02,d4d171f1-1a90-42cb-9802-b84a40ce4be7,Hydraulic Press,2022-09-17,45.0
+45ea077e-de3c-4353-abd8-55c688d857f5,F-Robotic-03,d4d171f1-1a90-42cb-9802-b84a40ce4be7,Robotic Arm,2020-01-19,50.0
+fe1411bf-0253-4964-a69d-bdaa90df9fcc,G-CNC-01,be9c59da-9e93-4309-b370-92a56f994837,CNC Machine,2022-02-22,35.0
+d02414fa-c40c-453d-81c7-783a36fd74dc,G-Hydraulic-02,be9c59da-9e93-4309-b370-92a56f994837,Hydraulic Press,2022-01-26,50.0
+963853d6-038f-4028-8eda-18ac202d88c9,G-Robotic-03,be9c59da-9e93-4309-b370-92a56f994837,Robotic Arm,2021-07-11,22.0
+3621737b-2b2f-4cb3-9ceb-c372abc03997,H-CNC-01,0990794d-da13-42b7-a421-b6047a1922a6,CNC Machine,2022-12-09,25.0
+57123fbc-3bdc-472f-9856-af2b3a114a6d,H-Hydraulic-02,0990794d-da13-42b7-a421-b6047a1922a6,Hydraulic Press,2021-02-01,50.0
+e2c4314f-d28b-4646-a782-38af570a04a0,H-Robotic-03,0990794d-da13-42b7-a421-b6047a1922a6,Robotic Arm,2019-03-20,22.0

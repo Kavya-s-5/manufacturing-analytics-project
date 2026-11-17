@@ -1,0 +1,9 @@
+line_id,line_name,location,line_type
+77cf1496-5f89-4b5b-af69-1b04d7d37473,Assembly Line A,Chennai Plant,Automotive
+212870e1-462c-4282-b4c8-ca1d8686c87b,Assembly Line B,Chennai Plant,Automotive
+9d286c2a-ca5b-489e-9a52-22a7ec979ffd,Precision Line C,Hyderabad Plant,Industrial
+b8171fb8-a045-4e71-a5e5-b3cbcdaa691b,Precision Line D,Hyderabad Plant,Industrial
+f6537b5b-5fff-4bee-bd62-57339b3bb166,Packaging Line E,Pune Plant,Consumer
+d4d171f1-1a90-42cb-9802-b84a40ce4be7,Packaging Line F,Pune Plant,Consumer
+be9c59da-9e93-4309-b370-92a56f994837,Fabrication Line G,Coimbatore Plant,Industrial
+0990794d-da13-42b7-a421-b6047a1922a6,Fabrication Line H,Coimbatore Plant,Automotive
